@@ -174,9 +174,9 @@ const initialState = {
 
   // danh sách ghế user đang chọn
   chairSelectedList: [
-    { soGhe: "G1", gia: 75000, daDat: false },
-    { soGhe: "G2", gia: 75000, daDat: false },
-    { soGhe: "G3", gia: 75000, daDat: false },
+    // { soGhe: "G1", gia: 75000, daDat: false },
+    // { soGhe: "G2", gia: 75000, daDat: false },
+    // { soGhe: "G3", gia: 75000, daDat: false },
   ],
 };
 
